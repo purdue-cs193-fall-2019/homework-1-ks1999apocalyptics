@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+# Zhan Shi's First CS193 Homework
+- I can make new friends in the class
+-Two instructors are very helpful and knowledgeable
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
